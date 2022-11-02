@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JDevzDoubleJ
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on AndroidIDE 
+- 📫 How to reach me via Facebook
